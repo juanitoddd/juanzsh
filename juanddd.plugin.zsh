@@ -13,7 +13,7 @@ alias top_ram='top -o %MEM'
 alias wanip='dig +short myip.opendns.com @resolver1.opendns.com'
 
 # DOCKER
-alias doco="juanddd docker-compose"
+alias doco="juanddd docker compose"
 alias docot="juanddd doco -f compose.tools.yml"
 alias docob="juanddd doco -f compose.base.yml"
 alias docos="juanddd doco -f compose.services.yml"
