@@ -13,6 +13,7 @@ alias wanip='dig +short myip.opendns.com @resolver1.opendns.com'
 
 # DOCKER
 alias doco="docker-compose"
+alias dc="docker compose"
 alias rmexit="docker ps -a | grep Exit | cut -d ' ' -f 1 | xargs docker rm"
 
 # SYSTEM
