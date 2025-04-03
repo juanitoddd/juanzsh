@@ -1,5 +1,5 @@
 # SYSTEM CONF
-alias conf="juanddd nano ~/.zshrc && source ~/.zshrc"
+alias conf="nano ~/.zshrc && source ~/.zshrc"
 
 alias ports1='netstat -ntap'
 alias ports2='netstat -ntl'
